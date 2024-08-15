@@ -1,7 +1,5 @@
+![image (1)](https://github.com/user-attachments/assets/6b36c05a-7b03-482a-a130-32dc213159be)
 
-<p align="center">
-   <img src="[image1.png](https://github.com/user-attachments/assets/32f30552-0baf-436b-9e5f-b0cef7c0282a)" width="100" height="100">
-</p>
 
 # 🕵️‍♂️ CSTIScan: Client-Side Template Injection (SISTEE) Scanner
 
@@ -22,8 +20,8 @@ CSTIScan is a powerful tool designed to identify and exploit potential Client-Si
 2. Clone this repository:
 
 ```
-git clone https://gitlab.com/-/ide/project/sprocketsecurity/hackers/sistee
-cd sistee
+git clone https://github.com/queencitycyber/SISTEE
+cd SISTEE
 go mod init csti.go
 go mod tidy
 go build .
