@@ -1,5 +1,6 @@
-![image (1)](https://github.com/user-attachments/assets/6b36c05a-7b03-482a-a130-32dc213159be)
-
+<p align="center">
+   <img src="bet.png" width="100" height="100">
+</p>
 
 # 🕵️‍♂️ CSTIScan: Client-Side Template Injection (SISTEE) Scanner
 
